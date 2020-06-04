@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Nikola Vasic nikolavasic505@gmail.com
+	
 # THANKS
 
     <name>
